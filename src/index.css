@@ -23,4 +23,8 @@ code {
     -webkit-appearance: none;
     margin: 0;
   }
+
+  button[type="button"] {
+    background-color: none;
+  }
 /* } */
