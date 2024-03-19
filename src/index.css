@@ -25,6 +25,6 @@ code {
   }
 
   button[type="button"] {
-    background-color: none !important;
+    background-color: black !important;
   }
 /* } */
