@@ -14,7 +14,7 @@ export const ColumnCenter = ({ radius }) => {
                 Est laborum
             </button>
             <a
-            className='hover:underline text-blue-500'
+                className='hover:underline text-blue-500'
                 href='https://github.com/kevkodezor/web-responsive'
                 target='_blank'
             >
